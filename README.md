@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hey there! I'm Joe 👋  
+
+I'm a professional software developer who's also passionate about helping others learn how to develop their own video games.
+
+📹 [I make game development tutorials for the Godot Engine on YouTube](https://www.youtube.com/channel/UCLzFt-NdfCm8WFKTyqD0yJw/)
+
+☕️ [If you find my work helpful, please consider donating to my Buy Me A Coffee page](https://www.buymeacoffee.com/jmbiv)
+
+🕹 [Check out the games that I've made on my Itch page](https://jmbiv.itch.io/)
 
 <!--
 **josephmbustamante/josephmbustamante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
